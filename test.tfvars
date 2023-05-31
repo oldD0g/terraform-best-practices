@@ -1,0 +1,5 @@
+instance_1_ami     = "ami-061c60691199b23b4"
+instance_1_type     = "t3.small"
+instance_1_name     = "instance-1"
+terraform = "true"
+environment = "test"

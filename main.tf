@@ -10,5 +10,3 @@ resource "aws_instance" "instance_1" {
     on_failure = continue
   }
 }
-
-
